@@ -1,5 +1,8 @@
 # Telegram Web App Interface
 
+To add telegram functionality to the application
+`<script src="https://telegram.org/js/telegram-web-app.js"></script>`
+
 ## Theme Parameters
 - `bg_color`: Background color
 - `text_color`: Text color
